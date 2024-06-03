@@ -1,0 +1,30 @@
+.bg-container{
+    background-color: #FF5E08;
+    height: auto;
+    padding: 50px;
+}
+.heading{
+    color: #FFFFFF;
+    font-size: 52px;
+    font-weight: 52px;
+    line-height: 130%;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.image{
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+}
+.image1{
+    height: 300px;
+    width: 600px;
+    padding: 50px;
+}
+.image2{
+    height: 100px;
+    width: 100px;
+    padding-top: 150px;
+}
